@@ -1,1 +1,1 @@
-# Data-Science-Master-Class
+# Data Science Master Class
